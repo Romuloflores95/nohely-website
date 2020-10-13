@@ -1,0 +1,40 @@
+body {
+    background-color:#eBC8B2;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    margin-top: -40px;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    color: #00FF00;
+}
+
+
+aside {
+    float: right;
+}
+.blacky {
+    background-image:url("https://i.pinimg.com/originals/43/2a/c5/432ac5a61d14bde9a7b9a55d255855ba.jpg");
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width: 90px;
+    height: 100%;
+    border: transparent 1px green;
+   box-shadow: blur;
+}
+
+.homo {
+    background-image:url("https://i.pinimg.com/originals/43/2a/c5/432ac5a61d14bde9a7b9a55d255855ba.jpg");
+    position: fixed;
+    right: 0px;
+    top:0px;
+    width: 90px;
+    height: 100%;
+    border: transparent 1px green;
+   box-shadow: blur;
+
+    }
